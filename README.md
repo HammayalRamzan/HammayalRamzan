@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Crew AI.**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github]
 
 - 💬 Ask me about **AI, RAG, Crew AI, Python, and full-stack web development (HTML, CSS, JS).**
 
@@ -27,10 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammayalramzan&show_icons=true&locale=en&layout=compact" alt="hammayalramzan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammayalramzan&show_icons=true&locale=en" alt="hammayalramzan" /></p>
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
