@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI, RAG, Crew AI, Python, and full-stack web development (HTML, CSS, JS).**
 
-- 📫 How to reach me **hammayalramzan@gmail.com**
+- 📫 How to reach me:  **hammayalramzan@gmail.com**
 
 - ⚡ Fun fact **I started with Python, fell for AI, and now I'm making web apps smarter with Crew AI!**
 
