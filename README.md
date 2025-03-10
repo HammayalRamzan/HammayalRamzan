@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HammayalRamzan</h1>
-<h3 align="center">AI Enthusiast | Full-Stack Developer | Python, RAG, Agentic AI, HTML, CSS, JavaScript 🚀</h3>
+<h3 align="center">AI Enthusiast | Full-Stack Developer | Python, RAG, Agentic AI, Streamlit 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammayalramzan&label=Profile%20views&color=0e75b6&style=flat" alt="hammayalramzan" /> </p>
 
